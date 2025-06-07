@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/nicolawitzig/development/fdg/build",
+  "command": "/usr/bin/clang++  -I/Users/nicolawitzig/development/fdg/src -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=c++17 -arch arm64 -o CMakeFiles/ForceDirectedGraphApp.dir/src/main.cpp.o -c /Users/nicolawitzig/development/fdg/src/main.cpp",
+  "file": "/Users/nicolawitzig/development/fdg/src/main.cpp",
+  "output": "CMakeFiles/ForceDirectedGraphApp.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/nicolawitzig/development/fdg/build",
+  "command": "/usr/bin/clang++  -I/Users/nicolawitzig/development/fdg/src -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=c++17 -arch arm64 -o CMakeFiles/ForceDirectedGraphApp.dir/src/Graph.cpp.o -c /Users/nicolawitzig/development/fdg/src/Graph.cpp",
+  "file": "/Users/nicolawitzig/development/fdg/src/Graph.cpp",
+  "output": "CMakeFiles/ForceDirectedGraphApp.dir/src/Graph.cpp.o"
+},
+{
+  "directory": "/Users/nicolawitzig/development/fdg/build",
+  "command": "/usr/bin/clang++  -I/Users/nicolawitzig/development/fdg/src -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=c++17 -arch arm64 -o CMakeFiles/ForceDirectedGraphApp.dir/src/Node.cpp.o -c /Users/nicolawitzig/development/fdg/src/Node.cpp",
+  "file": "/Users/nicolawitzig/development/fdg/src/Node.cpp",
+  "output": "CMakeFiles/ForceDirectedGraphApp.dir/src/Node.cpp.o"
+},
+{
+  "directory": "/Users/nicolawitzig/development/fdg/build",
+  "command": "/usr/bin/clang++  -I/Users/nicolawitzig/development/fdg/src -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=c++17 -arch arm64 -o CMakeFiles/ForceDirectedGraphApp.dir/src/Edge.cpp.o -c /Users/nicolawitzig/development/fdg/src/Edge.cpp",
+  "file": "/Users/nicolawitzig/development/fdg/src/Edge.cpp",
+  "output": "CMakeFiles/ForceDirectedGraphApp.dir/src/Edge.cpp.o"
+}
+]
