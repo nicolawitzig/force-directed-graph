@@ -1,6 +1,6 @@
 # Force-Directed Graph Layout (Fruchterman–Reingold)
 
-<video src="graph_demo.mp4" controls autoplay loop muted playsinline width="800"></video>
+https://github.com/user-attachments/assets/e95d404e-c042-44ad-83ca-2ed37204b79b
 
 This project implements the Fruchterman–Reingold algorithm, a classic force-directed method for graph drawing.  
 Nodes are treated as repelling particles while edges act as attractive springs, leading to aesthetically pleasing layouts that reveal graph structure.  
