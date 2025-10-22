@@ -7,4 +7,8 @@ Nodes are treated as repelling particles while edges act as attractive springs, 
 
 The implementation is written in C++ and demonstrates how simple physical metaphors can be used to compute graph layouts that are both visually clear and structurally meaningful.
 
-I developed this project as the underlying algorithm to a social network app I'm working on that computes the users underlying social graph and displays it in a visually pleasing format showing connections between friends. 
+I developed this project as the underlying algorithm to a mobile app I'm working on that displays your social connections in a visually pleasing way showing connections between friends and automatically aranging them using the graph algorithm implemented here. Below is an example of what this looks like in an early protoype of our app. The full app is still under developement and will hopefully launch in the App Store and Play Store soon! 
+
+https://github.com/user-attachments/assets/938ca771-ba6c-4c88-b11e-841d2e0fc18e
+
+
